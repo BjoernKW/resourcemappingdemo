@@ -22,7 +22,7 @@ Alternatively, you can use this command instead of the two last ones above:
 mvn spring-boot:run
 ```
 
-Once the application is running go to [http://localhost:8080/nested], which maps to a component served by an Angular route.
+Once the application is running go to http://localhost:8080/nested, which maps to a component served by an Angular route.
 
 ## Built With
 
