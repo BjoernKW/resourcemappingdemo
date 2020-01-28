@@ -13,9 +13,9 @@ import { RouterModule } from '@angular/router';
   ],
   imports: [
     BrowserModule,
-    RouterModule.forRoot([
-    	{ path: 'nested', component: NestedComponent }
-	])
+    RouterModule.forRoot([{
+      path: 'nested', component: NestedComponent
+    }])
   ],
   providers: [],
   bootstrap: [AppComponent]
